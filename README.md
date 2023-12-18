@@ -1,4 +1,4 @@
-# Analysis and Airbnb data Segmentation using KMeans Algorithm
+# Analysis and Airbnb Data Segmentation using KMeans Algorithm
 
 ## Description
 
